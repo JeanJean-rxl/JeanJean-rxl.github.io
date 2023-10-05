@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "hexo": "^7.0.0-rc2"
+    "hexo": "^7.0.0-rc2",
+    "hexo-deployer-git": "^4.0.0"
   }
 }
